@@ -1,0 +1,19 @@
+.user {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  background-color: rgb(170, 170, 218);
+  height: 100px;
+  width: 300px;
+  border: 1px solid #eee;
+}
+.userItem {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.del-btn {
+  width: 60px;
+  height: 30px;
+}
